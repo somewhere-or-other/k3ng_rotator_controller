@@ -67,7 +67,7 @@
 // #define FEATURE_ADAFRUIT_BUTTONS  // Uncomment this to use Adafruit I2C LCD buttons for manual AZ/EL instead of normal buttons (also set this feature in rotator_k3ngdisplay.h)
 // #define FEATURE_YOURDUINO_I2C_LCD
 // #define FEATURE_RFROBOT_I2C_DISPLAY
-// #define FEATURE_YWROBOT_I2C_DISPLAY
+#define FEATURE_YWROBOT_I2C_DISPLAY
 // #define FEATURE_SAINSMART_I2C_LCD
 
 // #define FEATURE_ANALOG_OUTPUT_PINS
@@ -156,7 +156,7 @@
 
 
 
-#define DEFAULT_DEBUG_STATE 0 // 1 = activate debug mode at startup; this should be set to zero unless you're debugging something at startup
+#define DEFAULT_DEBUG_STATE 1 // 1 = activate debug mode at startup; this should be set to zero unless you're debugging something at startup
 
 #define DEBUG_DUMP  // normally compile with this activated unless you're really trying to save memory
 // #define DEBUG_LOOP
