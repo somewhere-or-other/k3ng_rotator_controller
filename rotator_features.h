@@ -6,7 +6,7 @@
 
 /* main features */
 
-// #define FEATURE_ELEVATION_CONTROL       // uncomment this for AZ/EL rotators
+#define FEATURE_ELEVATION_CONTROL       // uncomment this for AZ/EL rotators
 #define FEATURE_YAESU_EMULATION           // uncomment this for Yaesu GS-232 emulation on control port
 // #define FEATURE_EASYCOM_EMULATION       // Easycom protocol emulation on control port (undefine FEATURE_YAESU_EMULATION above)
 
@@ -48,7 +48,7 @@
 // #define FEATURE_AZ_POSITION_INCREMENTAL_ENCODER
 // #define FEATURE_AZ_POSITION_A2_ABSOLUTE_ENCODER
 
-// #define FEATURE_EL_POSITION_POTENTIOMETER
+#define FEATURE_EL_POSITION_POTENTIOMETER
 // #define FEATURE_EL_POSITION_ROTARY_ENCODER
 // #define FEATURE_EL_POSITION_PULSE_INPUT
 // #define FEATURE_EL_POSITION_ADXL345_USING_LOVE_ELECTRON_LIB // Uncomment for elevation ADXL345 accelerometer support using ADXL345 library
