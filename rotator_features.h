@@ -67,7 +67,7 @@
 // #define FEATURE_ADAFRUIT_BUTTONS  // Uncomment this to use Adafruit I2C LCD buttons for manual AZ/EL instead of normal buttons (also set this feature in rotator_k3ngdisplay.h)
 // #define FEATURE_YOURDUINO_I2C_LCD
 // #define FEATURE_RFROBOT_I2C_DISPLAY
-// #define FEATURE_YWROBOT_I2C_DISPLAY
+#define FEATURE_YWROBOT_I2C_DISPLAY
 // #define FEATURE_SAINSMART_I2C_LCD
 
 // #define FEATURE_ANALOG_OUTPUT_PINS
@@ -118,7 +118,7 @@
 #define OPTION_SYNC_RTC_TO_GPS // if both realtime clock and GPS are present, synchronize realtime clock to GPS
 
 #define OPTION_DISPLAY_STATUS
-#define OPTION_DISPLAY_HEADING
+// #define OPTION_DISPLAY_HEADING
 #define OPTION_DISPLAY_HEADING_AZ_ONLY
 #define OPTION_DISPLAY_HEADING_EL_ONLY
 #define OPTION_DISPLAY_HHMM_CLOCK  // display HH:MM clock  (set position with #define LCD_HHMM_CLOCK_POSITION)

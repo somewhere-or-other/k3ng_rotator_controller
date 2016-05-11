@@ -16,11 +16,11 @@
 
                                                               */
 
-#define FEATURE_4_BIT_LCD_DISPLAY
+// #define FEATURE_4_BIT_LCD_DISPLAY
 // #define FEATURE_ADAFRUIT_I2C_LCD
 // #define FEATURE_YOURDUINO_I2C_LCD
 // #define FEATURE_RFROBOT_I2C_DISPLAY
-// #define FEATURE_YWROBOT_I2C_DISPLAY
+#define FEATURE_YWROBOT_I2C_DISPLAY
 // #define FEATURE_SAINSMART_I2C_LCD
 
 // #define FEATURE_ADAFRUIT_BUTTONS                
