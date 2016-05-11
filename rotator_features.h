@@ -6,7 +6,7 @@
 
 /* main features */
 
-// #define FEATURE_ELEVATION_CONTROL       // uncomment this for AZ/EL rotators
+#define FEATURE_ELEVATION_CONTROL       // uncomment this for AZ/EL rotators
 #define FEATURE_YAESU_EMULATION           // uncomment this for Yaesu GS-232 emulation on control port
 // #define FEATURE_EASYCOM_EMULATION       // Easycom protocol emulation on control port (undefine FEATURE_YAESU_EMULATION above)
 
@@ -48,7 +48,7 @@
 // #define FEATURE_AZ_POSITION_INCREMENTAL_ENCODER
 // #define FEATURE_AZ_POSITION_A2_ABSOLUTE_ENCODER
 
-// #define FEATURE_EL_POSITION_POTENTIOMETER
+#define FEATURE_EL_POSITION_POTENTIOMETER
 // #define FEATURE_EL_POSITION_ROTARY_ENCODER
 // #define FEATURE_EL_POSITION_PULSE_INPUT
 // #define FEATURE_EL_POSITION_ADXL345_USING_LOVE_ELECTRON_LIB // Uncomment for elevation ADXL345 accelerometer support using ADXL345 library
@@ -97,7 +97,7 @@
 // #define FEATURE_LIMIT_SENSE
 // #define FEATURE_TIMED_BUFFER           // Support for Yaesu timed buffer commands
 // #define OPTION_SERIAL_HELP_TEXT        // Yaesu help command prints help
-// #define FEATURE_PARK
+#define FEATURE_PARK
 // #define OPTION_AZ_MANUAL_ROTATE_LIMITS    // this option will automatically stop the L and R commands when hitting a CCW or CW limit (settings are AZ_MANUAL_ROTATE_CCW_LIMIT, AZ_MANUAL_ROTATE_CW_LIMIT) 
 // #define OPTION_EL_MANUAL_ROTATE_LIMITS    // (settings are EL_MANUAL_ROTATE_DOWN_LIMIT, EL_MANUAL_ROTATE_UP_LIMIT)
 #define OPTION_EASYCOM_AZ_QUERY_COMMAND // Adds non-standard Easycom command: AZ with no parm returns current azimuth
@@ -158,7 +158,7 @@
 
 #define DEFAULT_DEBUG_STATE 0 // 1 = activate debug mode at startup; this should be set to zero unless you're debugging something at startup
 
-#define DEBUG_DUMP  // normally compile with this activated unless you're really trying to save memory
+// #define DEBUG_DUMP  // normally compile with this activated unless you're really trying to save memory
 // #define DEBUG_LOOP
 // #define DEBUG_MEMORY
 // #define DEBUG_BUTTONS
