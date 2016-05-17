@@ -7520,10 +7520,10 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="J2" library="SparkFun-Connectors" deviceset="M03" device="LONGPADS" value="EL"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="M03" device="LONGPADS" value="AZ"/>
 <part name="J5" library="SparkFun-Connectors" deviceset="M04" device="LONGPADS" value="I2C-OLD"/>
-<part name="J6" library="SparkFun-Connectors" deviceset="M04" device="LONGPADS" value="I2C-NEW"/>
 <part name="J7" library="SparkFun-Connectors" deviceset="M02" device="PTH3" value="RST"/>
 <part name="J8" library="SparkFun-Connectors" deviceset="M02" device="PTH3" value="PARK"/>
 <part name="J9" library="SparkFun-Connectors" deviceset="M02" device="PTH3" value="STOP"/>
+<part name="J6" library="SparkFun-Connectors" deviceset="M04" device="LONGPADS" value="I2C-NEW"/>
 </parts>
 <sheets>
 <sheet>
@@ -7567,10 +7567,10 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <instance part="J2" gate="J$1" x="177.8" y="106.68"/>
 <instance part="J3" gate="J$1" x="127" y="104.14" rot="MR270"/>
 <instance part="J5" gate="G$1" x="104.14" y="-27.94" rot="R90"/>
-<instance part="J6" gate="G$1" x="104.14" y="-10.16" rot="R90"/>
 <instance part="J7" gate="G$1" x="38.1" y="-22.86"/>
 <instance part="J8" gate="G$1" x="38.1" y="-40.64"/>
 <instance part="J9" gate="G$1" x="38.1" y="-55.88"/>
+<instance part="J6" gate="G$1" x="104.14" y="-10.16" rot="R90"/>
 </instances>
 <busses>
 </busses>
@@ -7771,7 +7771,6 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <wire x1="111.76" y1="-17.78" x2="111.76" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="-2.54" x2="106.68" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="-2.54" x2="106.68" y2="15.24" width="0.1524" layer="91"/>
-<pinref part="J6" gate="G$1" pin="1"/>
 <wire x1="106.68" y1="-5.08" x2="106.68" y2="-2.54" width="0.1524" layer="91"/>
 <junction x="106.68" y="-2.54"/>
 <pinref part="J5" gate="G$1" pin="1"/>
@@ -7784,6 +7783,7 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="58.42" y="-38.1"/>
 <pinref part="J9" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="-53.34" x2="45.72" y2="-53.34" width="0.1524" layer="91"/>
+<pinref part="J6" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="GND12" gate="1" pin="GND"/>
@@ -7952,11 +7952,11 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <wire x1="114.3" y1="0" x2="114.3" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="20.32" x2="109.22" y2="0" width="0.1524" layer="91"/>
 <junction x="109.22" y="0"/>
-<pinref part="J6" gate="G$1" pin="2"/>
 <wire x1="104.14" y1="-5.08" x2="104.14" y2="0" width="0.1524" layer="91"/>
 <pinref part="J5" gate="G$1" pin="2"/>
 <wire x1="104.14" y1="-22.86" x2="104.14" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="-20.32" x2="114.3" y2="-20.32" width="0.1524" layer="91"/>
+<pinref part="J6" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$27" class="0">
