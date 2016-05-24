@@ -2,9 +2,9 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/ltb9/Documents/Personal/eagle/k3ng_rotator_controller_shield_layout/n7byu_k3ng_rotator_shield.brd
 
-Start at      : 11:48:21 (5/24/16)
-End at        : 11:48:27 (5/24/16)
-Elapsed time  : 00:00:06
+Start at      : 12:01:47 (5/24/16)
+End at        : 12:01:52 (5/24/16)
+Elapsed time  : 00:00:05
 
 Signals       :    33   RoutingGrid: 50 mil  Layers: 1
 Connections   :    73   predefined:  0 ( 0 Vias )
@@ -13,7 +13,7 @@ Router memory :   7072
 
 Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:05  00:00:00  00:00:01  00:00:00  00:00:00
+Time per pass     :  00:00:00  00:00:05  00:00:00  00:00:00  00:00:00  00:00:00
 Number of Ripups  :         0       389         0         0         0         0
 max. Level        :         0         7         0         0         0         0
 max. Total        :         0        34         0         0         0         0
