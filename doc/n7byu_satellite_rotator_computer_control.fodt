@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-05-08T06:11:05.304973177</meta:creation-date><dc:date>2017-07-04T14:25:40.634781101</dc:date><meta:editing-duration>PT2H20M48S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="4" meta:paragraph-count="39" meta:word-count="506" meta:character-count="3284" meta:non-whitespace-character-count="2811"/></office:meta>
+ <office:meta><meta:creation-date>2017-05-08T06:11:05.304973177</meta:creation-date><dc:date>2018-01-01T16:25:21.651361313</dc:date><meta:editing-duration>PT3H41M41S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="7" meta:paragraph-count="92" meta:word-count="1726" meta:character-count="10920" meta:non-whitespace-character-count="9274"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">74905</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">171873</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22767</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20844</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">24132</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22094</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11010</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">81414</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3270</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">186210</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">74905</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22765</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">95747</config:config-item>
-     <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">171873</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24130</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">193966</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">106</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -81,7 +81,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">2334799</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2624309</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -117,6 +117,7 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman"/>
   <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
@@ -185,11 +186,24 @@
   </style:style>
   <style:style style:name="Illustration" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Caption"/>
+  <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.2354in" fo:margin-right="0in" fo:text-indent="-0.2354in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
@@ -249,7 +263,7 @@
     </style:list-level-properties>
    </text:outline-level-style>
   </text:outline-style>
-  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
@@ -276,26 +290,83 @@
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="002101b7" officeooo:paragraph-rsid="002101b7"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="002101b7" officeooo:paragraph-rsid="002101b7"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0021f2b0" officeooo:paragraph-rsid="0021f2b0"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0023a04f" officeooo:paragraph-rsid="0023a04f"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001db915" officeooo:paragraph-rsid="001db915"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="001f603c" officeooo:paragraph-rsid="001f603c"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="002101b7" officeooo:paragraph-rsid="002101b7"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0023a04f" officeooo:paragraph-rsid="0023a04f"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="002101b7" officeooo:paragraph-rsid="002101b7"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="002101b7" officeooo:paragraph-rsid="002101b7" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00280b35" officeooo:paragraph-rsid="00280b35" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0024388c" officeooo:paragraph-rsid="0024388c"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00254aed" officeooo:paragraph-rsid="00254aed"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00254aed"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001f603c" officeooo:paragraph-rsid="001f603c"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002659e8" officeooo:paragraph-rsid="002659e8"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="002659e8" officeooo:paragraph-rsid="002659e8"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00280b35" officeooo:paragraph-rsid="00280b35"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="00280b35" officeooo:paragraph-rsid="00280b35"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Figure">
+   <style:text-properties officeooo:rsid="0024388c" officeooo:paragraph-rsid="0024388c"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Figure">
+   <style:text-properties officeooo:rsid="00254aed" officeooo:paragraph-rsid="00254aed"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001db915" officeooo:paragraph-rsid="001db915"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="002101b7" officeooo:paragraph-rsid="002101b7"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001f603c" officeooo:paragraph-rsid="001f603c"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0023a04f" officeooo:paragraph-rsid="0023a04f"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00254aed" officeooo:paragraph-rsid="00254aed"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="0024388c" officeooo:paragraph-rsid="0024388c"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="00254aed" officeooo:paragraph-rsid="00254aed"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="00280b35" officeooo:paragraph-rsid="00280b35"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
@@ -304,16 +375,46 @@
    <style:text-properties fo:font-style="italic" officeooo:rsid="002101b7" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0024388c" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="002101b7" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00280b35" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties officeooo:rsid="002101b7"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="002101b7" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0024388c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="002101b7"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
    <style:text-properties officeooo:rsid="0023a04f"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="0024388c"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif1"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif1" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif1" fo:font-style="normal" officeooo:rsid="002659e8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif1" fo:font-style="normal" officeooo:rsid="00280b35" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif1" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0in" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -322,6 +423,110 @@
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0in" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L3">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
@@ -394,43 +599,44 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:p text:style-name="P1">N7BYU Satellite Rotator Computer Control</text:p>
-   <text:p text:style-name="P3">by Lloyd Brown, KC7NGB (8 May 2017)</text:p>
+   <text:p text:style-name="P3">by Lloyd Brown, KC7NGB (<text:span text:style-name="T10">1 January 2018</text:span>)</text:p>
    <text:h text:style-name="P2" text:outline-level="1">Overview</text:h>
-   <text:p text:style-name="P4">The BYU Amateur Radio Club currently has a Yaesu G-5600 antenna rotator, which allows antennas to be pointed in both <text:span text:style-name="T1">azimuth</text:span><text:span text:style-name="T3"> (compass directions, eg. Northwest), and </text:span><text:span text:style-name="T1">elevation</text:span><text:span text:style-name="T3"> (angle above the horizon). <text:s/>This allows the antennas attached to the rotator to be pointed in any direction, and, with the right computer interface and software, can be used to track satellites.</text:span></text:p>
+   <text:p text:style-name="P4">The BYU Amateur Radio Club currently has a Yaesu G-5600 antenna rotator, which allows antennas to be pointed in both <text:span text:style-name="T1">azimuth</text:span><text:span text:style-name="T5"> (compass directions, eg. Northwest), and </text:span><text:span text:style-name="T1">elevation</text:span><text:span text:style-name="T5"> (angle above the horizon). <text:s/>This allows the antennas attached to the rotator to be pointed in any direction, and, with the right computer interface and software, can be used to track satellites.</text:span></text:p>
    <text:p text:style-name="P4">The rotator currently has some highly-directional, circularly-polarized antennas for the 145 MHz, 450 MHz, and 1200 MHz bands. <text:s/>These antennas are currently connected to a Kenwood TS-790 radio in the BYU ARC club shack.</text:p>
    <text:p text:style-name="P4">The rotator comes with a manual control device, which could theoretically be used to manually point the antenna, but currently some of the manual switches are having trouble. <text:s/>Additionally it is difficult to manually manage both the radio and the antenna rotator simultaneously. <text:s/>Computer control of the rotator is much preferable than manual tracking.</text:p>
+   <text:p text:style-name="P17">For reference, the rotator hardware is capable of 360<text:span text:style-name="T11">°</text:span><text:span text:style-name="T16"> of azimuth rotation, and 180</text:span><text:span text:style-name="T11">° of elevation rotation. <text:s/></text:span></text:p>
    <text:h text:style-name="P2" text:outline-level="1">Design</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Preliminary Information</text:h>
    <text:p text:style-name="P4">The Yaesu G-5600 antenna rotator has a manual control device which has an 8-pin DIN connector <text:s/>for external control, which provides the following pins:</text:p>
    <text:p text:style-name="P4">TODO: include pinout here</text:p>
-   <text:p text:style-name="P5">This connecteor provides voltages that indicate the position of the azimuth and elevation rotators, and pins that can be connected to ground to tell the rotator to go left or right (azimuth), or up and down (elevation).</text:p>
+   <text:p text:style-name="P5">This connector provides voltages that indicate the position of the azimuth and elevation rotators, and pins that can be connected to ground to tell the rotator to go left or right (azimuth), or up and down (elevation).</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Interface Device</text:h>
-   <text:p text:style-name="P6">Yaesu sells a GS-232 device that can be used to interface between a computer and the manual rotator controller. <text:s/>However, <text:span text:style-name="T5">these generally cost more than $550, likely due to their low sales volume. <text:s/>Instead, this project utilized an </text:span><text:span text:style-name="T2">Arduino</text:span><text:span text:style-name="T4"> device, along with the firmware designed by </text:span><text:span text:style-name="T2">Anthony Good, K3NG</text:span><text:span text:style-name="T4">, available at </text:span><text:a xlink:type="simple" xlink:href="https://blog.radioartisan.com/yaesu-rotator-computer-serial-interface/"><text:span text:style-name="T2">https://blog.radioartisan.com/yaesu-rotator-computer-serial-interface/</text:span></text:a><text:span text:style-name="T2">. <text:s/></text:span><text:span text:style-name="T4">This device appears to a computer as a RS-232 Serial, emulating the same interaction as the Yaesu GS-232B </text:span><text:soft-page-break/><text:span text:style-name="T4">variant. <text:s/>Any computer software that can interact with a Yaesu GS-232B, should be able to utilize this device.</text:span></text:p>
+   <text:p text:style-name="P6">Yaesu sells a GS-232 device that can be used to interface between a computer and the manual rotator controller. <text:s/>However, <text:span text:style-name="T8">these generally cost more than $550, likely due to their low sales volume. <text:s/>Instead, this project utilized an </text:span><text:span text:style-name="T2">Arduino</text:span><text:span text:style-name="T6"> device, along with the firmware designed by </text:span><text:span text:style-name="T2">Anthony Good, </text:span><text:soft-page-break/><text:span text:style-name="T2">K3NG</text:span><text:span text:style-name="T6">, available at </text:span><text:a xlink:type="simple" xlink:href="https://blog.radioartisan.com/yaesu-rotator-computer-serial-interface/"><text:span text:style-name="T2">https://blog.radioartisan.com/yaesu-rotator-computer-serial-interface/</text:span></text:a><text:span text:style-name="T2">. <text:s/></text:span><text:span text:style-name="T6">This device appears to a computer as a RS-232 Serial, emulating the same interaction as the Yaesu GS-232B variant. <text:s/>Any computer software that can interact with a Yaesu GS-232B, should be able to utilize this device.</text:span></text:p>
    <text:h text:style-name="P2" text:outline-level="1">Hardware</text:h>
    <text:p text:style-name="P7">This project utilizes the following parts:</text:p>
-   <text:list xml:id="list1794908020762524668" text:style-name="L1">
+   <text:list xml:id="list2004836976461938003" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P8">1x Arduino Uno R3 SMD Clone </text:p>
+     <text:p text:style-name="P13">1x Arduino Uno R3 SMD Clone </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8">1x Custom Daughterboard (schematic below)</text:p>
+     <text:p text:style-name="P13">1x Custom Daughterboard (schematic below)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8">1x 8-Pin DIN Cable (TODO: get Digikey Part number)</text:p>
+     <text:p text:style-name="P13">1x 8-Pin DIN Cable (TODO: get Digikey Part number)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8">2x Momentary SPDT toggle switches (for manual azimuth and elevation control)</text:p>
+     <text:p text:style-name="P13">2x Momentary SPDT toggle switches (for manual azimuth and elevation control)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8">1x DPDT toggle switch (for toggling elevation direction)</text:p>
+     <text:p text:style-name="P13">1x DPDT toggle switch (for toggling elevation direction)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8">2x Momentary SPST buttons (for Park and Stop functionality)</text:p>
+     <text:p text:style-name="P13">2x Momentary SPST buttons (for Park and Stop functionality)</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P13" text:outline-level="2">Daughter Board Schematic</text:h>
-   <text:p text:style-name="P7">The schematic and board layout, formatted for the <text:span text:style-name="T1">eagle</text:span><text:span text:style-name="T3"> schematic design software,</text:span> can be found in the <text:span text:style-name="T1">shield_layout</text:span><text:span text:style-name="T3"> folder of this </text:span><text:span text:style-name="T1">github</text:span><text:span text:style-name="T3"> repository: </text:span><text:a xlink:type="simple" xlink:href="https://git.io/vQgPt"><text:span text:style-name="T3">https://git.io/vQgPt</text:span></text:a></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T3">For reference, here is the schematic diagram:</text:span></text:p>
+   <text:h text:style-name="P11" text:outline-level="2">Daughter Board Schematic</text:h>
+   <text:p text:style-name="P7">The schematic and board layout, formatted for the <text:span text:style-name="T1">eagle</text:span><text:span text:style-name="T5"> schematic design software,</text:span> can be found in the <text:span text:style-name="T1">shield_layout</text:span><text:span text:style-name="T5"> folder of this </text:span><text:span text:style-name="T1">github</text:span><text:span text:style-name="T5"> repository: </text:span><text:a xlink:type="simple" xlink:href="https://git.io/vQgPt"><text:span text:style-name="T5">https://git.io/vQgPt</text:span></text:a></text:p>
+   <text:p text:style-name="P14">For reference, here is the schematic diagram:</text:p>
    <text:p text:style-name="P7"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:width="6.9252in" draw:z-index="0">
      <draw:text-box fo:min-height="6.1866in">
       <text:p text:style-name="Figure"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="paragraph" svg:width="6.9252in" style:rel-width="100%" svg:height="6.1866in" style:rel-height="scale" draw:z-index="1"><draw:image>
@@ -917,21 +1123,137 @@
        </draw:frame>Figure <text:sequence text:ref-name="refFigure0" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">1</text:sequence>: N7BYU Rotator Controller Arduino Shield Schematic</text:p>
      </draw:text-box>
     </draw:frame><text:soft-page-break/></text:p>
-   <text:p text:style-name="P9">The following is the <text:s/><text:span text:style-name="T6">pinout for the interface cable that goes between the shield, and the Yaesu G-5600 controller:</text:span></text:p>
-   <text:p text:style-name="P10">TODO: include pinout for interface cable</text:p>
+   <text:p text:style-name="P8">The following is the <text:s/><text:span text:style-name="T9">pinout for the interface cable that goes between the shield, and the Yaesu G-5600 controller:</text:span></text:p>
+   <text:p text:style-name="P9">TODO: include pinout for interface cable</text:p>
    <text:h text:style-name="P2" text:outline-level="1">Computer Software</text:h>
-   <text:p text:style-name="P10">This setup has been tested on the Linux operating system, but will likely work under other operating systems. <text:s/>The specific setup under Linux will be documented here, but any setup that is capable of interacting with a Yaesu GS-232B device, should work here.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T6">Linux</text:span> Software</text:h>
+   <text:p text:style-name="P9">This setup has <text:span text:style-name="T10">(so far) </text:span>been tested on the Linux operating system, but will likely work under other operating systems. <text:s/>The specific setup under Linux will be documented here, but any setup that is capable of interacting with a Yaesu GS-232B device, should work here.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T9">Linux</text:span> Software</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Hamlib</text:h>
+   <text:p text:style-name="Text_20_body">The <text:span text:style-name="T1">hamlib</text:span><text:span text:style-name="T5"> libraries/tools exist to provide a standard interface between various ham-related hardware components (both antenna rotators, and controllable radios/rigs), and the application software that utilizes them. <text:s/>The tool set includes command-line tools like </text:span><text:span text:style-name="T1">rotctl</text:span><text:span text:style-name="T5"> (rotator control</text:span><text:span text:style-name="T7">), and </text:span><text:span text:style-name="T3">rigctl</text:span><text:span text:style-name="T7"> (radio/rig control), as well as corresponding </text:span><text:span text:style-name="T3">daemons</text:span><text:span text:style-name="T7"> (named </text:span><text:span text:style-name="T3">rotctld </text:span><text:span text:style-name="T7">and </text:span><text:span text:style-name="T3">rigctld</text:span><text:span text:style-name="T7">)</text:span><text:span text:style-name="T3"> that</text:span><text:span text:style-name="T7"> stay resident on the computer, and respond to commands over a network socket.</text:span></text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T5">While it is technically possible to run the </text:span><text:span text:style-name="T1">rotctld</text:span><text:span text:style-name="T5"> daemon on a different computer than the application software (eg. </text:span><text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T5">), this is not generally recommended, due to security concerns.</text:span><text:span text:style-name="T5"><text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+       <text:p text:style-name="P31">The <text:span text:style-name="T1">rotctld</text:span><text:span text:style-name="T5"> daemon will respond to any commands on the appropriate TCP port (4533, by default), without any encryption or authentication. <text:s/>This could be handled using some kind of SSH or SSL tunneling, etc., if that is desired. <text:s/>If the data connection traverses an amateur radio link, however, be careful to not violate the anti-encryption provisions of the Part 97 rules.</text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T5"> <text:s/>Instead, generally they are run on the same host, and the application software simply connects to the </text:span><text:span text:style-name="T1">localhost</text:span><text:span text:style-name="T5"> to communicate with the daemon.</text:span></text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T5">This is the recommended syntax to launch </text:span><text:span text:style-name="T1">rotctld</text:span><text:span text:style-name="T5"> for this interface device:</text:span></text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T5">rotctld --model=603 --rot-file-device=/dev/ttyUSB0</text:span><text:span text:style-name="T5"><text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+       <text:p text:style-name="P31">The exact path to the serial device may vary, depending on the system configuration. <text:s/>But &apos;/dev/ttyUSB0&apos; is common for a usb-to-serial converter, like the one built into the <text:span text:style-name="T1">arduino</text:span><text:span text:style-name="T5"> device.</text:span></text:p></text:note-body></text:note></text:span></text:p>
+   <text:p text:style-name="P25"><text:span text:style-name="T5">For further information, please consult the main </text:span><text:span text:style-name="T1">hamlib</text:span><text:span text:style-name="T5"> website and documentation: </text:span><text:a xlink:type="simple" xlink:href="http://www.hamlib.org/"><text:span text:style-name="T5">http://www.hamlib.org/</text:span></text:a></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">gpredict</text:h>
+   <text:p text:style-name="P17">The software <text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T1"><text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+       <text:p text:style-name="P32">See http://gpredict.oz9aec.net/</text:p></text:note-body></text:note></text:span><text:span text:style-name="T5"> is an open-source, real-time satellite tracking and orbit prediction application, written mainly by Alexander Ceste, OZ9AEC. <text:s/>When set up correctly, it can send the antenna rotator a series of azimuth/elevation angles, that can approximate the path of the satellite. <text:s/>In addition, </text:span><text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T5"> can also calculate the uplink and downlink frequencies (corrected for Doppler-shift), and send those to a radio, but this is not working well at the moment. <text:s/>You may use the software for these calculations, but will still have to manually tune the uplink and downlink VFOs on the radio.</text:span></text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T5">This document will show how to get the </text:span><text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T5"> software to interact with the rotator controller. <text:s/>However, there is a great deal more to do to set up </text:span><text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T5"> completely, but that is beyond the scope of this document. </text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T5">In order to set up the rotator, you will generally follow the following steps:</text:span></text:p>
+   <text:list xml:id="list1441866373655917676" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P21"><text:span text:style-name="T5">Launch </text:span><text:span text:style-name="T1">gpredict</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P21"><text:span text:style-name="T5">Open the settings section, by going to </text:span><text:span text:style-name="T1">Edit-&gt;Settings</text:span><text:span text:style-name="T5">. <text:s/>Click on the </text:span><text:span text:style-name="T1">Interfaces</text:span><text:span text:style-name="T5"> icon on the left, and then the </text:span><text:span text:style-name="T1">Rotators</text:span><text:span text:style-name="T5"> tab on the top.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P21"><text:soft-page-break/><text:span text:style-name="T5">Click on the </text:span><text:span text:style-name="T1">Add New</text:span><text:span text:style-name="T5"> button and specify the following parameters (many are the default):</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T5">Name: Whatever you want to call this rotator. <text:s/>Something like “N7BYU_G5600B” is pretty descriptive and distinctive.</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T5">Host: localhost (or another hostname if you are sending the rotator control commands over the network – not recommended)</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T5">Port: 4533 (default)</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T5">Az type: 0</text:span><text:span text:style-name="T12">°</text:span><text:span text:style-name="T5">-&gt;180</text:span><text:span text:style-name="T12">°</text:span><text:span text:style-name="T5">-&gt;360</text:span><text:span text:style-name="T12">°</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T12">Min Az: 0</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T12">Max Az: 360</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T12">Min El: 0</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T12">Max El: 180</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P21"><text:span text:style-name="T12">Azimuth end stop position </text:span><text:span text:style-name="T15">(extremely important!!!)</text:span><text:span text:style-name="T12">: 180</text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P21"><text:span text:style-name="T12">Click </text:span><text:span text:style-name="T15">OK</text:span><text:span text:style-name="T12"> to close the “Edit rotator configuration” dialog box, and then </text:span><text:span text:style-name="T15">OK</text:span><text:span text:style-name="T12"> to close the “GPREDICT Preferences” window.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P20">For information on how to begin the tracking of a satellite, see the <text:bookmark-ref text:reference-format="text" text:ref-name="__RefHeading__155_421415727">Automatic Operation</text:bookmark-ref> section below.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Issues</text:h>
-   <text:h text:style-name="P14" text:outline-level="3">Azimuth Rotation Stops</text:h>
-   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P12" text:outline-level="3">Azimuth Rotation Stops</text:h>
+   <text:p text:style-name="P20"><text:span text:style-name="T12">Most azimuth rotators have rotation stops, </text:span><text:span text:style-name="T14">positions</text:span><text:span text:style-name="T12"> that they cannot rotate beyond, most often located either in the North or the South positions. <text:s/>The convention is that if the rotator is described as using a “-180°-&gt;0°-&gt;180°” range, the rotation stops are in the South (or +/-180° azimuth), while a rotator described as a “0°-&gt;180°-&gt;360°” rotator, has the stops in the North (or 0°/360° azimuth).</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T12">The N7BYU rotator is an exception to this rule. <text:s/>It uses the “0°-&gt;180°-&gt;360°” range description, but has its rotation stops in the South (at 180° azimuth). <text:s/>This is why specifying the </text:span><text:span text:style-name="T15">Azimuth Stop Position</text:span><text:span text:style-name="T12"> described above is so important. <text:s/>Without this set correctly, you cannot correctly do a </text:span><text:span text:style-name="T12"><text:bookmark-ref text:reference-format="text" text:ref-name="__RefHeading__158_421415727">Flip-Pass Operation</text:bookmark-ref></text:span><text:span text:style-name="T12">, which is quite limiting.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__158_421415727"/>Flip-Pass Operation<text:bookmark-end text:name="__RefHeading__158_421415727"/></text:h>
+   <text:p text:style-name="P22"><text:span text:style-name="T12">In order to understand a flip-pass, think about the following hypothetical scenario: A satellite you&apos;re tracking will appear in the Southeast (135</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">azimuth) at 45</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">elevation above the horizon, and will track west, at a constant 45</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">elevation, eventually disappearing in the Southwest (225</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">azimuth), still at 45</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">elevation.</text:span><text:span text:style-name="T12"><text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
+       <text:p text:style-name="P33">It is extremely unlikely that a satellite would stay at a constant elevation throughout it&apos;s pass, but this example still illustrates the problem that a flip-pass can solve.</text:p></text:note-body></text:note></text:span></text:p>
+   <text:p text:style-name="P22"><text:soft-page-break/><text:span text:style-name="T12">If the azimuth rotator had rotation stops in the North, this path would not be a problem. <text:s/>However, the N7BYU rotator has rotation stops in the South. <text:s/>This means that if you&apos;re tracking this satellite, it would approach, and eventually hit the rotation stops. <text:s/>Then, in order to continue to track the satellite, it would need to swing all the way back around (S-&gt;SE-&gt;E-&gt;NE-&gt;N-&gt;NW-&gt;W-&gt;SW-&gt;S) in order to catch the satellite on the other side of the rotation stops. <text:s/>This process can take nearly a minute, during which time your antenna is not pointing at the satellite.</text:span></text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T12">The solution is a flip-pass, also known as a “flipped” pass. <text:s/>For our hypothetical path described above, we can just begin tracking in the Northwest (315</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">azimuth) at 135</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">elevation above the horizon, and track east, ending in the Northeast (45</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">azimuth), still at 135</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">elevation.</text:span></text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T12">Because the elevation rotator can go past 90</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">(straight up), the flip-pass essentially tracks the same path as before, but avoids hitting the rotation stops, and therefore avoids the time when you can&apos;t hear the satellite.</text:span></text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T12">Note that </text:span><text:span text:style-name="T15">gpredict</text:span><text:span text:style-name="T12"> does handle flip-pass calculations automatically, based on the specified </text:span><text:span text:style-name="T15">Azimuth end stop position</text:span><text:span text:style-name="T12">. <text:s/>Whether other software does the same, will depend on that software&apos;s authors.</text:span><text:span text:style-name="T12"><text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
+       <text:p text:style-name="P33">For an example of one way to calculate a flip-pass, see <text:a xlink:type="simple" xlink:href="https://git.io/vbpvY">https://git.io/vbpvY</text:a> and <text:a xlink:type="simple" xlink:href="https://git.io/vbpv4">https://git.io/vbpv4</text:a> (in the <text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T5"> source code).</text:span></text:p></text:note-body></text:note></text:span></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Operational Procedures</text:h>
-   <text:h text:style-name="P12" text:outline-level="2">Calibration</text:h>
+   <text:h text:style-name="P10" text:outline-level="2">Calibration</text:h>
+   <text:p text:style-name="P15">TODO</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Operation</text:h>
+   <text:h text:style-name="P30" text:outline-level="3">Manual Operation</text:h>
+   <text:p text:style-name="P22">The interface device contains the following control switches/buttons, which can be used to manually control the rotator position:</text:p>
+   <text:list xml:id="list4078859199092955219" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P23">Azimuth</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P23">Lets users manually instruct the rotator to go left or right in azimuth</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">Elevation</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P23">Lets users manually instruct the rotator to go up or down in elevation</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">Elevation Direction Toggle</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P23">This is intended to allow individuals to choose which direction means “up” vs “down” on the elevation switch, similar to people preferring the traditional vs “natural” scroll settings on a computer mouse&apos;s scroll wheel<text:note text:id="ftn5" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
+          <text:p text:style-name="P33">This is also an example of unnecessary over-engineering. <text:s/>Feel free to blame me. <text:s/>It&apos;s totally my fault.</text:p></text:note-body></text:note></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23"><text:soft-page-break/>Stop</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P23">This button can be used to stop the rotator interface device from completing it&apos;s current rotation.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P23">Note that many tracking programs like <text:span text:style-name="T1">gpredict</text:span><text:span text:style-name="T5"> send the satellite&apos;s path as a series of azimuth/elevation positions, frequently sending new positions as often as every second. <text:s/>If the tracking program is still sending positions, this button won&apos;t cancel all of them. <text:s/>Just the current one. <text:s/>Users really need to stop the tracking software. <text:s/>Or hold down this button, I suppose.</text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">Park</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P23">This button will instruct the rotator to go back to it&apos;s parking position, currently set at 0<text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">azimuth (North), and 0</text:span><text:span text:style-name="T13">° </text:span><text:span text:style-name="T12">elevation. <text:s/>This is wise to do routinely, to minimize the wind load on the antenna system.</text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P30" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__155_421415727"/>Automatic Operation<text:bookmark-end text:name="__RefHeading__155_421415727"/></text:h>
+   <text:p text:style-name="P18"/>
    <text:h text:style-name="P2" text:outline-level="1">Future Work</text:h>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">References</text:h>
+   <text:p text:style-name="P17">TODO:<text:span text:style-name="T1"> hamlib, gpredict, AMSAT, </text:span><text:span text:style-name="T4">github branch of rotator firmware, radioartisan and gpredict mailing lists</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
